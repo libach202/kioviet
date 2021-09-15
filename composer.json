@@ -14,5 +14,11 @@
         "psr-4": {
             "Libach202\\": "src/libach202/"
         }
-    }
+    },
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/libach202/kioviet"
+        }
+    ]
 }
